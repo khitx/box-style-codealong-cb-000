@@ -184,6 +184,11 @@ header {
   font: 1em "Trecuchet MS", Arial, sans-serif;
 }
 
+#navbar nav a.selected {
+  background: #333;
+  color: white;
+}
+
 /*////////// LOGO //////////*/
 
 #logo h1 {
